@@ -1,0 +1,4 @@
+#Wed Nov 27 18:02:22 GMT 2019
+base.0=C\:\\Users\\Joshmond\\Desktop\\RunUp\\runup\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
