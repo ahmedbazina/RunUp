@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "108513653344",
+    "firebase_url": "https://runup-cb4e1.firebaseio.com",
+    "project_id": "runup-cb4e1",
+    "storage_bucket": "runup-cb4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108513653344:android:0fd9fa22c84a62a9878905",
+        "android_client_info": {
+          "package_name": "com.example.runup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108513653344-otiqgr40pu48157r1p7iqe95maiqangj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhlg6N_gGnw1CH7zm-Uu-qt4J6HF0ttc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108513653344-otiqgr40pu48157r1p7iqe95maiqangj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -14,7 +14,17 @@ public final class R {
   public static final class mipmap {
     public static final int ic_launcher=0x7f020000;
   }
+  public static final class string {
+    public static final int default_web_client_id=0x7f030000;
+    public static final int firebase_database_url=0x7f030001;
+    public static final int gcm_defaultSenderId=0x7f030002;
+    public static final int google_api_key=0x7f030003;
+    public static final int google_app_id=0x7f030004;
+    public static final int google_crash_reporting_api_key=0x7f030005;
+    public static final int google_storage_bucket=0x7f030006;
+    public static final int project_id=0x7f030007;
+  }
   public static final class style {
-    public static final int LaunchTheme=0x7f030000;
+    public static final int LaunchTheme=0x7f040000;
   }
 }
