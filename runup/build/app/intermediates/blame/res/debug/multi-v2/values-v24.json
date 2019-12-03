@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Joshmond\\Desktop\\Project\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Joshmond\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9acafc3b0f100df7562347c4153e05ed\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\382698e0728f1e886534149434a03153\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

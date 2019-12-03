@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Joshmond\\Desktop\\Project\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Joshmond\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\47c67d820b89be536288de9424c2fc03\\res\\values-b+sr+Latn\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\values-b+sr+Latn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Joshmond\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\a223ef0bef1e8cb3f0f01b24a474391a\\res\\values-b+sr+Latn\\values.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\0742c19fbd854f710c99a76d64417622\\res\\values-b+sr+Latn\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Joshmond\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c858fd17f0eb9a99e0c10ea02868d4e3\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
