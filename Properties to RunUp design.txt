@@ -1,0 +1,67 @@
+//Splash screen
+<!-- Style for "background" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="375dp" android:height="812dp">
+  <shape android:shape="rectangle">
+    <solid android:color="#ff3e67d6" />
+  </shape>
+</item>
+
+<!-- Style for "circle1" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="657dp" android:height="657dp">
+  <shape android:shape="circle1">
+    <corners android:radius="329dp" />
+    <solid android:color="#ffffffff" />
+  </shape>
+</item>
+
+<!-- Style for "circle2" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="447dp" android:height="447dp">
+  <shape android:shape="circle2">
+    <corners android:radius="224dp" />
+    <solid android:color="#ffffffff" />
+  </shape>
+</item>
+
+<!-- Style for "circle3" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="211dp" android:height="211dp">
+  <shape android:shape="circle3">
+    <corners android:radius="106dp" />
+    <solid android:color="#ffffffff" />
+  </shape>
+</item>
+
+<!-- Style for "splash_logo" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="153dp" android:height="138dp">
+  <shape android:shape="splash_logo">
+    <solid android:color="#ffffffff" />
+  </shape>
+</item>
+
+
+
+
+
+//Onboarding screen 1
+<!-- Style for "background" -->
+<!-- Add this snippet to layer-list xml in drawable. -->
+<item android:width="375dp" android:height="812dp">
+  <shape android:shape="rectangle">
+    <solid android:color="#ff3e67d6" />
+  </shape>
+</item>
+
+<!-- Text style for "have_a_good_health" -->
+<!-- Add this snippet to styles.xml. -->
+<style name="have_a_goo">
+  <item name="android:textColor">#ff3e67d6</item>
+  <item name="android:textSize">24sp</item>
+</style>
+
+
+
+
