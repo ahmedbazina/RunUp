@@ -144,6 +144,8 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+mipmap app_icon_blue
+mipmap app_icon_white
 mipmap ic_launcher
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text

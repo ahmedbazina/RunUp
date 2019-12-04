@@ -25,8 +25,8 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="runup" >
+        android:icon="@mipmap/app_icon_white"
+        android:label="RunUp" >
         <activity
             android:name="com.example.runup.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
