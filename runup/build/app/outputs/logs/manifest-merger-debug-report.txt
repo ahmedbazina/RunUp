@@ -87,7 +87,7 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\ahmed\.gradle\c
 	android:label
 		ADDED from D:\Cardiff Met\Runup\runup\android\app\src\main\AndroidManifest.xml:11:9-30
 	android:icon
-		ADDED from D:\Cardiff Met\Runup\runup\android\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from D:\Cardiff Met\Runup\runup\android\app\src\main\AndroidManifest.xml:12:9-46
 	android:name
 		ADDED from D:\Cardiff Met\Runup\runup\android\app\src\main\AndroidManifest.xml:10:9-57
 activity#com.example.runup.MainActivity

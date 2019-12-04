@@ -8,6 +8,10 @@
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_blue.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_blue.png"
+    },
+    {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
@@ -44,8 +48,16 @@
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_blue.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_blue.png"
+    },
+    {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_white.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_white.png"
     },
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
@@ -54,6 +66,10 @@
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_white.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_white.png"
     },
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -188,6 +204,14 @@
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_white.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_white.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_blue.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_blue.png"
+    },
+    {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d0fd0c00d3f1d7e3c46fa89b7136e9b\\res\\layout-v21\\notification_template_custom_big.xml"
     },
@@ -206,6 +230,10 @@
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_white.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_white.png"
     },
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
@@ -268,6 +296,10 @@
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_blue.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_blue.png"
+    },
+    {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
@@ -286,6 +318,10 @@
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_blue.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_blue.png"
     },
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -314,6 +350,10 @@
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\f4e436f98f05ff395a9562e20e7fba2e\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_white.png.flat",
+        "source": "D:\\Cardiff Met\\Runup\\runup\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_white.png"
     },
     {
         "merged": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",

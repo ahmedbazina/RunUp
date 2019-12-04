@@ -289,7 +289,9 @@ public final class R {
     public static final int notification_template_part_time=0x7f08000e;
   }
   public static final class mipmap {
-    public static final int ic_launcher=0x7f090000;
+    public static final int app_icon_blue=0x7f090000;
+    public static final int app_icon_white=0x7f090001;
+    public static final int ic_launcher=0x7f090002;
   }
   public static final class string {
     public static final int common_google_play_services_enable_button=0x7f0a0000;
