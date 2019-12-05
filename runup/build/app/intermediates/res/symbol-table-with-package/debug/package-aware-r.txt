@@ -15,6 +15,7 @@ attr imageAspectRatio
 attr imageAspectRatioAdjust
 attr scopeUris
 bool abc_action_bar_embed_tabs
+color bgColor
 color common_google_signin_btn_text_dark
 color common_google_signin_btn_text_dark_default
 color common_google_signin_btn_text_dark_disabled
@@ -147,6 +148,11 @@ layout notification_template_part_time
 mipmap app_icon_blue
 mipmap app_icon_white
 mipmap ic_launcher
+mipmap splash_radius_logo
+mipmap splash_radius_logo_hdpi
+mipmap splash_radius_logo_xhdpi
+mipmap splash_radius_logo_xxhdpi
+mipmap splash_radius_logo_xxxhdpi
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text
 string common_google_play_services_enable_title
