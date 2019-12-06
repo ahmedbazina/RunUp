@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Cardiff Met\\Runup\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
+            "outputFile": "D:\\Cardiff Met\\RunUp\\runup\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-as\\values-as.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\0742c19fbd854f710c99a76d64417622\\res\\values-as\\values.xml",
