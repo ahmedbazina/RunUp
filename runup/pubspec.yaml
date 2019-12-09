@@ -49,6 +49,14 @@ flutter:
 
   assets:
     - assets/
+    - assets/screens/
+    - assets/screens/onboarding/
+    - assets/screens/welcome/
+    - assets/screens/login & signup/
+    -
+
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -72,6 +80,13 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
+
+
+    fonts:
+       - family: CM Sans Serif
+         fonts:
+           - asset: assets/fonts/cm_sans_serif_2012.ttf
+
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
