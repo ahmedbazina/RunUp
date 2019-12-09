@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:runup/root.dart';
+import 'package:runup/screens/Onboarding.dart';
 
 void main() => runApp(Runup());
 
@@ -9,7 +9,8 @@ class Runup extends StatelessWidget
   Widget build(BuildContext context)
   {
     return MaterialApp(
-      home: Root(),
+      debugShowCheckedModeBanner: false,
+      home: Onboarding(),
     );
   }
 }
