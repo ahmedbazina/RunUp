@@ -3,6 +3,8 @@ import 'package:flutter/services.dart';
 import 'package:runup/utilities/styles.dart';
 import '../root.dart';
 import 'dart:async';
+//import 'package:shared_preferences/shared_preferences.dart';
+
 
 class Onboarding extends StatefulWidget {
   @override
@@ -167,6 +169,9 @@ class _OnboardingState extends State<Onboarding> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: _buildPageIndicator(),
+                ),
+                SizedBox(
+                  height: 50,
                 ),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.stretch,
